@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test176 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\21989\AppData\Local\Temp\RSPE640.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/test176.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"D:\MyProjects\»Î√≈¡∑œ∞\test176\file176.c"
+]
+Creating command line "cl.exe @C:\Users\21989\AppData\Local\Temp\RSPE640.tmp" 
+<h3>Output Window</h3>
+Compiling...
+file176.c
+
+
+
+<h3>Results</h3>
+file176.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
